@@ -1,2 +1,2 @@
 # DeepFakeDetector
-2024fallSCNU-AI project
+2024fall SCNU-AI project
