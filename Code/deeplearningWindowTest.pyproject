@@ -1,0 +1,9 @@
+{
+    "files": [
+        "mainwindow.py",
+        "run.py",
+        "training/__init__.py",
+        "training/utils/__init__.py",
+        "training/utils/model.py"
+    ]
+}
